@@ -1,0 +1,11 @@
+node_modules
+*.err
+*.out
+*.pid
+*.log
+logs
+.env
+.DS_Store
+.idea
+dist
+config/config.json
